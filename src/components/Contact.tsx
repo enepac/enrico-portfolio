@@ -13,7 +13,7 @@ export default function Contact() {
       >
         <h2 className="text-3xl font-bold mb-6">Get in Touch</h2>
         <p className="text-lg mb-6">
-          I'm open to full-time, contract, or collaborative opportunities. Feel free to reach out!
+          I&apos;m open to full-time, contract, or collaborative opportunities. Feel free to reach out!
         </p>
         <div className="space-y-2 text-lg">
           <p>
